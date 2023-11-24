@@ -1,0 +1,101 @@
+.Cuerpo{
+    height: 100%;
+    width: 100%;
+   
+  }
+
+.cabecera {
+    border-radius: 80px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+    width: 90%;
+    box-shadow: 20%;
+  }
+
+ .menu{
+justify-content: space-between;
+align-items: center;
+
+}
+
+  .NavDer {
+    height: 100%;
+   width: 90%;
+   display: flex ;
+   background-color: red;
+   
+  }
+
+  .DerArb {
+    height: 60%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .Actualizacion {
+    height: 5%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ActIz {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ActDer {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    font-size:x-small;
+    color: #000000;
+  }
+
+  .INFODATOS{
+    height: 35%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px; 
+  }
+
+  .TITULO{
+    height: 25%;
+    width: 40%;
+     }
+
+  .logoglobo{
+ margin-top: -110;
+ margin-left: -15%;
+  }
+  
+  .TituloD{
+   font-size: smaller;
+   justify-content: center;
+  }
+
+
+  
+
+  
+  .Num{
+    width: 90%;
+    height: 8%;
+  }
+
+  .Otros{
+    width: 90%;
+    height: 20%;
+  }
+  
+  

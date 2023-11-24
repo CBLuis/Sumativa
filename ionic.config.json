@@ -1,0 +1,7 @@
+{
+  "name": "figmacarlitos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

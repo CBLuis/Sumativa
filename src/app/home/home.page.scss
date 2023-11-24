@@ -1,0 +1,136 @@
+body{
+  width: 100%;
+  height: 100%;
+  
+}
+.header{
+  width: 100%;
+  height: 15%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.infoAll{
+  height: 85%;
+  width: 100%;
+  
+}
+.barraNav{
+  height: 80%;
+  width: 100%;
+  
+  border-radius: 50px;
+  display: flex;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  color: rgb(0, 0, 0);
+}
+.barraNav_izq{
+  height: 100%;
+  width: 50%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.barraNav_der{
+  height: 100%;
+  width: 40%;
+  
+  
+}
+.der_up{
+  height: 60%;
+  width: 100%;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20%;
+}
+.der_down{
+  height: 40%;
+  width: 100%;
+  
+  display: flex;
+  justify-content: space-between;
+  
+  font-size: x-small;
+}
+.All_up{
+  height: 25% ;
+  width: 100%;
+  
+}
+.All_midle{
+  height: 50% ;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.midle_oks{
+  height: 100%;
+  width: 94%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+}
+.All_down{
+  height: 25% ;
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.AllUp_up{
+  height: 60%;
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.AllUp_down{
+  height: 40%;
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.midle_up{
+  height: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  padding: 10%;
+}
+.imas{
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 5rem;
+  border-radius: 5%;
+}
+.imas_up{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imas_down{
+  text-align: center;
+  font-size: xx-small;
+}
+.midle_down{
+  height: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  padding: 10%;
+}
